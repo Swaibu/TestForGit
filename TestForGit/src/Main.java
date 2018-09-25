@@ -13,7 +13,7 @@ public class Main {
 		System.out.println("Hello World!!!");
 		
 		
-		System.out.println("Hello everybody!!! This is the new Branch shdfsuifhksdjhkdj");
+		System.out.println("Hello everybody!!!");
 	}
 
 }
